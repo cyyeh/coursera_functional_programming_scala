@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78cd5b81-47c1-4245-bfb8-ab2b0021ff63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../lecture_code/src/week2/rationals.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lecture_code/src/week2/rationalsSymbolic.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$062e49ee39c9945708ad$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$062e49ee39c9945708ad$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$062e49ee39c9945708ad.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$062e49ee39c9945708ad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$1b000fe98d9f13b698d2$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$1b000fe98d9f13b698d2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$1b000fe98d9f13b698d2.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$1b000fe98d9f13b698d2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$2bcd89818cbbfe923fde$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$2bcd89818cbbfe923fde.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$2bcd89818cbbfe923fde.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$507b10b59c90fc696878$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$507b10b59c90fc696878$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$507b10b59c90fc696878.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$507b10b59c90fc696878.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$595a0a9c231002324bd9$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$595a0a9c231002324bd9.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$595a0a9c231002324bd9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$6de8c2258cb9f4cf5dbf$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$6de8c2258cb9f4cf5dbf.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$6de8c2258cb9f4cf5dbf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$7f18a63e40991ce50853$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$7f18a63e40991ce50853$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$7f18a63e40991ce50853.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/project/target/config-classes/$7f18a63e40991ce50853.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture_code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -57,10 +22,11 @@
     <session id="-839110341">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -95,7 +61,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="188">
+                <state relative-caret-position="145">
                   <caret line="73" column="75" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="75" />
                 </state>
               </provider>
@@ -108,7 +74,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-983">
+                <state relative-caret-position="15">
                   <caret line="94" selection-start-line="94" selection-end-line="94" />
                   <folding>
                     <element signature="e#17#46#0" expanded="true" />
@@ -149,7 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,7 +174,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,6 +244,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="18232611340000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
         <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
         <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
@@ -294,6 +261,7 @@
     </option>
     <option name="projectSyncType">
       <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../../../recfun" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/example" value="PREVIEW" />
       </map>
@@ -313,9 +281,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FunSetSuite - 2018.11.09 at 19h 11m 45s.xml">
-      <configuration name="FunSetSuite" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="FunSetSuite - 2018.11.09 at 19h 17m 21s.xml">
       <configuration name="FunSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -343,6 +308,9 @@
     <history-entry file="FunSetSuite - 2018.11.09 at 22h 25m 21s.xml">
       <configuration name="FunSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="FunSetSuite - 2018.11.09 at 22h 29m 55s.xml">
+      <configuration name="FunSetSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -363,7 +331,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.39452055" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.39452055" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.2109589" />
@@ -377,7 +345,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="sbt" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="right" id="Run" order="10" visible="true" weight="0.16639742" />
+      <window_info anchor="right" id="Run" order="10" weight="0.16639742" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -391,20 +359,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="73" column="75" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-983">
+        <state relative-caret-position="15">
           <caret line="94" selection-start-line="94" selection-end-line="94" />
           <folding>
             <element signature="e#17#46#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="73" column="75" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="75" />
         </state>
       </provider>
     </entry>
