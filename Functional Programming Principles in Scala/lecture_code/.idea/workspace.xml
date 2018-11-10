@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e0849c-25d6-4ef3-ac32-02451eb4ae77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week3/List.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Rational.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/intsets.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/nth.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/scratch.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignments/hw2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/config-classes/$d76eeb6be14a159be135$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/config-classes/$d76eeb6be14a159be135$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/config-classes/$d76eeb6be14a159be135$$anonfun$$sbtdef$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/config-classes/$d76eeb6be14a159be135$$anonfun$$sbtdef$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/config-classes/$d76eeb6be14a159be135$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/config-classes/$d76eeb6be14a159be135.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/config-classes/$d76eeb6be14a159be135.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../assignments/hw2/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw2/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../assignments/hw2/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/rationals.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/rationals.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/rationalsSymbolic.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/rationalsSymbolic.sc" afterDir="false" />
-    </list>
+    <list default="true" id="27e0849c-25d6-4ef3-ac32-02451eb4ae77" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +68,7 @@
     <session id="158984529">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -248,7 +229,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541806244305" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541806589238" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -313,7 +294,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16882068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
