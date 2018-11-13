@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bae1c8e-63c6-46aa-bcf2-6c5a6aedcfb5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/modules/progfun1-funsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/modules/progfun1-funsets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture_code/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1232137349">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="sc" value="4" />
+          <entry key="scala" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="5100" />
+          <entry key="sbtShell" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sbtShell" value="68" />
+          <entry key="sc" value="190" />
+          <entry key="scala" value="4910" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createCodeTree</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/testHuffman.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542074401495" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HuffmanSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="progfun1-patmat" />
+      <setting name="path" value="patmat.HuffmanSuite" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="patmat.HuffmanSuite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.HuffmanSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-patmat" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/chihyu/Desktop/TYCS/scala/Functional%20Programming%20Principles%20in%20Scala/assignments/hw4/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build [file:/Users/chihyu/Desktop/TYCS/scala/Functional%20Programming%20Principles%20in%20Scala/assignments/hw4/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="647646337" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="1073251015" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3896389775" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="2270748580" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="1951503120" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="3016454982" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2557134551" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2764601182" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../hw2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hw3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../recfun" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bae1c8e-63c6-46aa-bcf2-6c5a6aedcfb5" name="Default Changelist" comment="" />
+      <created>1541984048377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541984048377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 36m 34s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 43m 55s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 44m 18s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 47m 30s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 48m 15s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 52m 15s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 52m 54s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 53m 12s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 55m 33s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="HuffmanSuite - 2018.11.13 at 09h 58m 54s.xml">
+      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16639742" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44520548" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.039726026" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16639742" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37671232" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.039726026" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/TraversableLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="258" column="6" selection-start-line="258" selection-start-column="6" selection-end-line="258" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/SeqLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="622" column="6" selection-start-line="622" selection-start-column="6" selection-end-line="622" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/testHuffman.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

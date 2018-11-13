@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78cd5b81-47c1-4245-bfb8-ab2b0021ff63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-funsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-funsets.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture_code/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -22,11 +26,13 @@
     <session id="-839110341">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,7 +47,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="2645" />
+          <entry key="Scala" value="2663" />
           <entry key="sbtShell" value="88" />
         </counts>
       </usages-collector>
@@ -49,20 +55,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="sbtShell" value="88" />
-          <entry key="scala" value="2645" />
+          <entry key="scala" value="2663" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5468278">
+    <splitter split-orientation="horizontal" split-proportion="0.5145955">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="145">
-                  <caret line="73" column="75" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="75" />
+                <state relative-caret-position="458">
+                  <caret line="94" column="3" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -74,8 +80,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="94" selection-start-line="94" selection-end-line="94" />
+                <state relative-caret-position="213">
+                  <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
                   <folding>
                     <element signature="e#17#46#0" expanded="true" />
                   </folding>
@@ -261,7 +267,6 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../../../recfun" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/example" value="PREVIEW" />
       </map>
@@ -314,7 +319,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.031502422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -361,15 +365,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="73" column="75" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="75" />
+        <state relative-caret-position="458">
+          <caret line="94" column="3" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        <state relative-caret-position="213">
+          <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
           <folding>
             <element signature="e#17#46#0" expanded="true" />
           </folding>
