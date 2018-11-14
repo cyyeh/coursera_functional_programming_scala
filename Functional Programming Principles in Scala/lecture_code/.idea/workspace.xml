@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27e0849c-25d6-4ef3-ac32-02451eb4ae77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week5/listHoF.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/listMethods.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/mergeSortGeneralLessThan.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/mergeSortGeneralOrdering.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/mergeSortGeneralOrderingImplicit.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/mergeSortInt.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/reduce.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignments/hw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignments/hw4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/combinatorialSearch.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/linuxwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/map.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/nQueens.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/otherCollections.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/phoneNumberTranslation.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/set.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -81,38 +80,41 @@
           <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="sc" value="32" />
+          <entry key="sc" value="40" />
           <entry key="scala" value="16" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="Scala" value="48" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scala" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Scala Console" value="5" />
-          <entry key="sc" value="6542" />
+          <entry key="sc" value="9639" />
           <entry key="scala" value="2103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="8650" />
+          <entry key="Scala" value="11747" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -120,11 +122,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week5/reduce.sc">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week6/nQueens.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="465">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week6/map.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week6/phoneNumberTranslation.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -182,6 +202,14 @@
         <option value="$PROJECT_DIR$/src/week5/mergeSortGeneralOrderingImplicit.sc" />
         <option value="$PROJECT_DIR$/src/week5/listHoF.sc" />
         <option value="$PROJECT_DIR$/src/week5/reduce.sc" />
+        <option value="$PROJECT_DIR$/src/week6/otherCollections.sc" />
+        <option value="$PROJECT_DIR$/src/week6/combinatorialSearch.sc" />
+        <option value="$PROJECT_DIR$/src/week6/combinatariolSearch2.sc" />
+        <option value="$PROJECT_DIR$/src/week6/nQueens.sc" />
+        <option value="$PROJECT_DIR$/src/week6/map.sc" />
+        <option value="$PROJECT_DIR$/src/week6/phoneNumber.sc" />
+        <option value="$PROJECT_DIR$/src/week6/linuxwords.txt" />
+        <option value="$PROJECT_DIR$/src/week6/phoneNumberTranslation.sc" />
       </list>
     </option>
   </component>
@@ -215,13 +243,37 @@
               <item name="lecture_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="lecture_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
+              <item name="week6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lecture_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lecture_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="lecture_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="scala-sdk-2.12.7" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="lecture_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="scala-sdk-2.12.7" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.7.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="scala-sdk-2.12.7" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.7.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="scala-sdk-2.12.7" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.7.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,7 +282,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542109256450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542156269479" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -297,7 +349,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17043619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -535,7 +587,66 @@
     <entry file="file://$PROJECT_DIR$/src/week5/reduce.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/set.sc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/set.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/combinatorialSearch.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/otherCollections.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/nQueens.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/phoneNumber.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/map.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/linuxwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="45402" lean-forward="true" selection-start-line="45402" selection-end-line="45402" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/phoneNumberTranslation.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
